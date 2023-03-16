@@ -1,0 +1,29 @@
+body{
+  padding: 0px;
+  margin: 0px;
+}
+.page{
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+}
+.header{
+  grid-column: 1/13;
+  grid-row: 1/3;
+  background: black;
+}
+.content{
+  grid-column: 1/10;
+  grid-row: 3/11;
+  background: yellow;
+}
+.right-aside{
+  grid-column: 10/13;
+  grid-row:3/11;
+  background: blue;
+}
+.footer{
+  grid-column: 1/13;
+  grid-row: 11/13;
+  background: black;
+}

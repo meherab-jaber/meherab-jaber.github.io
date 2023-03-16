@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  background-color : green;
+}
+p {
+  text-align: justify;
+  padding : 10px;
+}
+
+.color-skyblue {
+    color : skyblue;
+}
+.color-red {
+    color : red;
+}
+.color-green {
+    color : green;
+}
+.bgcolor-skyblue {
+    background-color: skyblue;
+}
+.bgcolor-red {
+    background-color: red;
+}
+.bgcolor-green {
+    background-color: green;
+}

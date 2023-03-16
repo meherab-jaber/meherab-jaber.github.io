@@ -1,0 +1,20 @@
+.red {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border-radius: 50%;
+}
+.green {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  border-radius: 50%;
+  margin-left: 120px;
+}
+.blue {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  border-radius: 50%;
+  margin-left: 120px;
+}

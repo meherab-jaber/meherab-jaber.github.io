@@ -1,0 +1,104 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.page {
+    height: 200vh;
+    width: 100vw;
+    display: grid;
+}
+.blog1 {
+    grid-column: 1/13;
+    grid-row: 1/2;
+    background: skyblue;
+}
+.blog2 {
+    grid-column: 1/13;
+    grid-row: 2/4;
+    padding: 20px;
+    text-align: center;
+}
+.blog3 {
+    grid-column: 1/13;
+    grid-row: 4/6;
+    padding: 50px;
+    background: green;
+}
+.blog4 {
+    grid-column: 1/13;
+    grid-row: 6/8;
+    text-align: center;
+}
+.blog5 {
+    grid-column: 1/13;
+    grid-row: 8/9;
+    background: purple;
+    display: grid;
+    text-align: center;
+}
+.blog6 {
+    grid-column: 1/13;
+    grid-row: 9/11;
+}
+.blog7 {
+    grid-column: 1/13;
+    grid-row: 11/12;
+    background: orange;
+}
+.blog8 {
+    grid-column: 1/13;
+    grid-row: 12/13;
+    background: skyblue;
+}
+.card2a {
+    border: 1px solid gray;
+    width: 40px;
+    height: 40px;
+    background: gray;
+    display: inline-block;
+}
+.card2b {
+    border: 1px solid gray;
+    margin: 10px;
+    width: 80px;
+    height: 20px;
+    background: gray;
+    display: inline-block;
+}
+.card4a {
+    border: 1px solid gray;
+    margin: 20px;
+    width: 100px;
+    height: 20px;
+    background: gray;
+    display: inline-block;
+ }
+.card4b {
+    border: 1px solid gray;
+    margin: 10px;
+    width: 70px;
+    height: 100px;
+    background: gray;
+    display: inline-block;
+ }
+.card4c {
+    border: 1px solid gray;
+    margin: 10px;
+    width: 70px;
+    height: 100px;
+    background: gray;
+    display: inline-block;
+ }
+ .card5a {
+     border: 1px solid black;
+     height: 100px;
+     width: 80px;
+     background: white;
+     display: inline-block;
+ }
+ .heading {
+     margin: 10px;
+     height: 10px;
+     width: 80px;
+     background: gray;
+ }

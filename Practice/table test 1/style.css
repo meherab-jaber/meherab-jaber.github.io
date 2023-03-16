@@ -1,0 +1,19 @@
+table {
+  text-align: center;
+  width: 777px;
+  height: 277px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+ tr td {
+   border: 1px dashed black;
+ }
+ th{
+   padding: 10px;
+   border: 2px solid black;
+   background: #ffca288a
+ }
+ tbody td:hover {
+   color: white;
+   background-color: #bdbdbd;
+ }

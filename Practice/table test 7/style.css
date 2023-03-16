@@ -1,0 +1,17 @@
+table {
+  border: 2px solid white;
+  border-collapse: collapse;
+  height: 30vh;
+  width: 50vw;
+  text-align: center;
+}
+th {
+  border: 3px solid white;
+}
+ tr td {
+  border: 3px solid white;
+}
+.color {
+  color: white;
+  background: green;
+}

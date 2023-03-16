@@ -1,0 +1,33 @@
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+tr td {
+  border: 1px solid black;
+  transition: 2s;
+}
+td:hover {
+   padding: 20px;
+}
+table:hover {
+   tr: 20px;
+}
+.round {
+  height: 125px;
+  width: 125px;
+  border-radius: 50%;
+  border: 3px solid red;
+  transition: 2s;
+}
+img {
+  height: 125px;
+  width: 125px;
+  border-radius: 50%;
+  transition: 1s;
+}
+img:hover{
+  opacity: 0;
+}
+.round:hover {
+   transform: rotate(180deg);
+}

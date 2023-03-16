@@ -1,0 +1,38 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.first {
+  border: 1px solid black;
+  height: 130px;
+  width: 100vw;
+}
+td {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+
+}
+img {
+  height: 130px;
+  width: 1100px;
+}
+.coto {
+  font-size: 10px;
+  color: blue;
+}
+.profile td {
+  border : 1px solid white;
+}
+.profile td img {
+  width : 100px;
+  height : 100px;
+  border-radius: 50%;
+}
+.boro td {
+  border: 1px solid white;
+}
+.boro img {
+  height: 200px;
+  width: 300px;
+}

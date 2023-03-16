@@ -1,0 +1,21 @@
+table {
+   border-collapse: collapse;
+   width: 80vw;
+   height: 60vh;
+}
+table tr > * {
+    text-align: center;
+    border: 1px solid black;
+    border-left : none;
+    border-right : none;
+}
+
+thead tr th {
+    padding: 10px;
+    background: skyblue;
+}
+
+tbody tr:hover > td {
+   background:darkblue;
+   color : white;
+}

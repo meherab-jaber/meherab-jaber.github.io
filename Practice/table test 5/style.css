@@ -1,0 +1,29 @@
+table {
+  border: 2px solid white;
+  height: 80vh;
+  width: 90vw;
+  border-collapse: collapse;
+}
+tr, td {
+  border: 2px solid white;
+  background-color: white;
+}
+
+.color-skyblue {
+   background: skyblue;
+}
+.color-mojahidul1 {
+   background: #3d3ddc;
+}
+.color-mojahidul2 {
+   background: blue;
+}
+.color-mojahidul3 {
+  background:#5151da;
+}
+.color-mojahidul4 {
+  background: green;
+}
+.border-mota {
+  border-top: 40px solid white;
+}

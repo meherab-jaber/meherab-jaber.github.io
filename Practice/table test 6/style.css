@@ -1,0 +1,24 @@
+table {
+  border: 5px solid black;
+  border-collapse: collapse;
+  width: 40vw;
+  height: 30vh;
+}
+tr, th, td {
+  border: 5px solid white;
+  text-align: center;
+}
+tr th {
+  background-color: green;
+  color: white;
+}
+.color {
+  background: blue;
+  color: white;
+}
+input {
+  text-align: center;
+}
+.box-mota {
+  padding: 15px 3px;
+}
