@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding : 0;
+}
+.parent {
+    width: 100vw;
+    height: 90vh;
+    margin-top:10vh;
+    background: gray;
+    position: relative;
+}
+.child {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.child-1 {
+    background: yellow;
+    z-index: 3;
+    top : 20px;
+    left:20px;
+}
+
+.child-2 {
+    background: purple;
+    top : 10px;
+    left:10px;
+    z-index: 2;
+}
+
+.child-3 {
+    background: orange;
+    top : 0px;
+    left:0px;
+    z-index: 1;
+}
